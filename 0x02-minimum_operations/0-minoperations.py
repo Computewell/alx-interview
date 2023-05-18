@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This module defines a function that calculates the fewestnumber of 
+This module defines a function that calculates the fewest number of 
 operations needed to result in exactly n H characters in the a given file
 """
 
